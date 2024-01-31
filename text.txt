@@ -1,0 +1,6 @@
+1. Keywords
+2. Arrow functions
+3. Template litreals
+4. Destructring
+5. Spread operator and Rest operator
+6. Collection
